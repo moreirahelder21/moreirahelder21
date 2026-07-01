@@ -1,4 +1,4 @@
-# Olá, eu sou o Helder Moreira 👋
+# Olá e seja bem-vindo! Me chamo Helder Moreira 😁👋
 
 🎓 Estudante de Direito no último período  
 💻 Desenvolvedor em formação e entusiasta de tecnologia  
