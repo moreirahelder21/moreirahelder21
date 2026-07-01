@@ -11,17 +11,16 @@
 
 Sou apaixonado por resolver problemas e construir soluções práticas utilizando tecnologia.
 
-Minha trajetória começou no Direito, onde adquiri experiência com análise crítica, interpretação normativa e resolução de conflitos. Atualmente, venho expandindo minha atuação para o desenvolvimento de software, buscando unir conhecimentos jurídicos e tecnológicos.
+Minha trajetória começou no Direito, onde adquiri experiência com análise crítica, interpretação normativa e resolução de conflitos. Atualmente, venho expandindo minha atuação para o desenvolvimento de software, buscando aproveitar o que já aprendi e desenvolver novos conhecimentos.
 
 Tenho interesse especial em:
 
 - Desenvolvimento Backend
 - Desenvolvimento Web
 - Automação de processos
-- Inteligência Artificial aplicada ao Direito
-- Legal Techs
+- Inteligência Artificial
 - Cibersegurança
-- Ciência de Dados aplicada ao setor jurídico
+- Ciência de Dados
 
 ---
 
@@ -36,7 +35,6 @@ Tenho interesse especial em:
 - CSS3
 
 ### Frameworks e Bibliotecas
-- Flask
 - Bootstrap
 
 ### Ferramentas
@@ -44,6 +42,7 @@ Tenho interesse especial em:
 - GitHub
 - VS Code
 - IntelliJ IDEA
+- Eclipse
 - MySQL
 
 ---
@@ -64,7 +63,7 @@ Tenho interesse especial em:
 - Desenvolver experiência internacional na área de tecnologia
 - Trabalhar com desenvolvimento backend e engenharia de software
 - Participar de projetos Open Source
-- Contribuir para soluções que integrem Direito e Tecnologia
+- Contribuir para soluções que se prestem a resolver tarefas do cotidiano
 
 ---
 
